@@ -45,7 +45,7 @@ Boost Software License
 
 ### Demo
 
-`cargo run --example example1`
+`cargo test
 
 ### TODO
 
