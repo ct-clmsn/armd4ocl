@@ -57,7 +57,8 @@ Boost Software License
 Christopher Taylor
 
 ### Dependencies
-[Rust](https://www.rust-lang.org)
-[OpenCL-bindings-1](https://crates.io/keywords/gpgpu)
-[OpenCL-bindings-2](https://crates.io/search?q=OpenCL)
-[OpenCL-bindings-3](https://crates.io/search?page=1&per_page=10&q=ocl)
+
+* [Rust](https://www.rust-lang.org)
+* [OpenCL-bindings-1](https://crates.io/keywords/gpgpu)
+* [OpenCL-bindings-2](https://crates.io/search?q=OpenCL)
+* [OpenCL-bindings-3](https://crates.io/search?page=1&per_page=10&q=ocl)
