@@ -4,8 +4,8 @@ version = "0.0.1"
 authors = ["ct.clmsn <ct.clmsn@gmail.com>"]
 edition = "2018"
 license-file = "LICENSE_1_0.txt"
-keywords = ["opencl", "gpu", "dsl"]
-categories = ["opencl", "gpu", "dsl"]
+keywords = ["opencl", "gpu", "dsl", "gpgpu"]
+categories = ["development-tools", "hardware-support"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
