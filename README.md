@@ -45,7 +45,7 @@ Boost Software License
 
 ### Demo
 
-`cargo test
+cargo test
 
 ### TODO
 
