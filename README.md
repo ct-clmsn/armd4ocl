@@ -49,7 +49,6 @@ Boost Software License
 
 ### TODO
 
-* OpenCL function call support
 * Procedural macro support
 
 ### Author
