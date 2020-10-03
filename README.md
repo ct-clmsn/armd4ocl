@@ -29,7 +29,6 @@ with the user-provided input; the output will not be pretty-printed.
 * Users should note that `for`, `while`, `if`, `else if`, `else` are [strict keywords](https://doc.rust-lang.org/reference/keywords.html#strict-keywords) in the Rust language. Strict keywords cannot be overloaded by the macro system. To use this macro in OpenCL programs,
 users are required to replace their use of the OpenCL `for`, `while`, `if`, `else if`, `else` keyword by using
 `for_`, `while_`, `if_`, `else_if_`, `else_` as an alternative token.
-* Support for OpenCL function calls is currently not available.
 * Since the macro is a syntax checker, it will allow recursive function calls
 in an OpenCL program. Recursion is not permitted in OpenCL programs according
 to the language standard.
